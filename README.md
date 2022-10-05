@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Stats
+
 [![@sam_perseus's Holopin board](https://holopin.io/api/user/board?user=sam_perseus)](https://holopin.io/@sam_perseus)
 
+### Stats
 | <a href="https://github.com/SatyakiMandal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SatyakiMandal&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Satyaki's github stats" /></a> | <a href="https://github.com/SatyakiMandal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyakiMandal&layout=compact&theme=dark&hide_border=true" /></a></p> |
 | ------------- | ------------- |
 
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 
 <!--
 
-
+### Top Repositories
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
