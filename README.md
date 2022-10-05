@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![@sam_perseus's Holopin board](https://holopin.io/api/user/board?user=sam_perseus)](https://holopin.io/@sam_perseus)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SatyakiMandal)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyakiMandal)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyakiMandal&theme=blue-green)
