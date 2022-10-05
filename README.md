@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SatyakiMandal)](https://github.com/SatyakiMandal/github-profile-trophy)
+
 
 <!--
 
