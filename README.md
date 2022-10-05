@@ -1,4 +1,4 @@
-### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
 
 <!--
 **SatyakiMandal/SatyakiMandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![@sam_perseus's Holopin board](https://holopin.io/api/user/board?user=sam_perseus)](https://holopin.io/@sam_perseus)
 
-### Stats
+#### Stats
 | <a href="https://github.com/SatyakiMandal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SatyakiMandal&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Satyaki's github stats" /></a> | <a href="https://github.com/SatyakiMandal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyakiMandal&layout=compact&theme=dark&hide_border=true" /></a></p> |
 | ------------- | ------------- |
 
