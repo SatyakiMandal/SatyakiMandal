@@ -23,12 +23,14 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SatyakiMandal)](https://github.com/SatyakiMandal/github-profile-trophy)
+
 
 
 <!--
+#### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=SatyakiMandal)](https://github.com/SatyakiMandal/github-profile-trophy)
 
-### Top Repositories
+#### Top Repositories
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
