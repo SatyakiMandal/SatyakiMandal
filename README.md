@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@sam_perseus's Holopin board](https://holopin.io/api/user/board?user=sam_perseus)](https://holopin.io/@sam_perseus)
-![Github stats](https://github-readme-stats.vercel.app/api?username=SatyakiMandal)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyakiMandal&theme=blue-green)
+![Github stats](https://github-readme-stats.vercel.app/api?username=SatyakiMandal&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyakiMandal)
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+![Profile View Counter](https://komarev.com/ghpvc/?username=SatyakiMandal)
